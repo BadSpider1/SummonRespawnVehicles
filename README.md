@@ -1,3 +1,5 @@
+Well, northwood added this to the RA, so there is no point of maintaining this anymore. I have updated the plugin to work on EXILED6 but i won´t push it. If you really want it message me on discord.
+
 # SummonRespawnVehicles
 This primitive plugin allows you to summon the NTF Helicopter and CI Car without spawning anyone.
 The command are:
